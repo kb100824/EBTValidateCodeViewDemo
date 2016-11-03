@@ -6,5 +6,5 @@
 
 
 
-[!Image](https://github.com/KBvsMJ/EBTValidateCodeViewDemo/blob/master/demogif/3.gif)
+![Image](https://github.com/KBvsMJ/EBTValidateCodeViewDemo/blob/master/demogif/3.gif)
 
