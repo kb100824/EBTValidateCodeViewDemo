@@ -6,15 +6,11 @@
 
 3:拖线条并设置其属性
 
-//保存字符或者数字验证码数组
-
-@property(nonatomic,copy) NSArray *arrayValidateCode;
+@property(nonatomic,copy) NSArray *arrayValidateCode; //保存字符或者数字验证码数组
 
 4:获取最终生成的验证码通过该其属性
 
-//最后生成输出的验证码
-
-@property(nonatomic,readonly,copy) NSString *stringValidateCode;
+@property(nonatomic,readonly,copy) NSString *stringValidateCode; //最后生成输出的验证码
 
 5:测试案例:
 
